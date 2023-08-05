@@ -1,6 +1,6 @@
 ## PURPOSE
 
-This node flushes the GPU cache and empty cuda interprocess memory.
+This ComfyUI custom node flushes the GPU cache and empty cuda interprocess memory.
 It's helpfull for low memory environment such as the free Google Colab, especially when the workflow VAE decode latents of the size above 1500x1500.
 
 ### Prerequisites
