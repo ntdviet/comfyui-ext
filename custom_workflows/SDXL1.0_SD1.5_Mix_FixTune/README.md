@@ -7,16 +7,19 @@ In the same rendering pipeline, artifacts and faulty image creation from SDXL1.0
 ![ảnh](https://github.com/ntdviet/comfyui-ext/assets/54492570/f2b1c7ae-5c37-462f-9147-e39c5c55db59)
 
 ### Prerequisites
+Custom nodes:
 -	ComfyUI_Comfyroll_CustomNodes: <a>https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes</a>
 -	WAS-node-suite-comfyui: <a>https://github.com/WASasquatch/was-node-suite-comfyui</a>
 - gcLatentTunnel: https://github.com/ntdviet/comfyui-ext/tree/main/custom_nodes/gcLatentTunnel
+  
+Models + LORAS I was using for my examples:
+- RevAnimated: https://civitai.com/models/119330?modelVersionId=129614
+- AbsoluteReality: https://civitai.com/models/81458?modelVersionId=132760
+- Vietnamese long dress Aodai: https://civitai.com/models/112187?modelVersionId=121093
+- Better Hands: https://civitai.com/models/112187?modelVersionId=121093
+- Add Detail: https://civitai.com/models/112187?modelVersionId=121093
 
 
 ### Installation
+Load "SDXL+1.5_FixTune.json" into ComfyUI client
 
-Just copy the .py into your .../ComfyUI/custom_nodes folder and restart the UI.
-
-### Example
-
-Put it anywhere in the line of latents where you suspect an outburst use of memory (eg. after sampling or after decoding).
-![ảnh](https://github.com/ntdviet/comfyui-ext/assets/54492570/c824b084-d5bf-4408-8575-7f2b362f7682)
