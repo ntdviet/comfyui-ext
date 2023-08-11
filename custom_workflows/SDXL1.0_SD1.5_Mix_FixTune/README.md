@@ -12,7 +12,7 @@ Custom nodes:
 -	WAS-node-suite-comfyui: <a>https://github.com/WASasquatch/was-node-suite-comfyui</a>
 - gcLatentTunnel: https://github.com/ntdviet/comfyui-ext/tree/main/custom_nodes/gcLatentTunnel
 
-Models + LORAS I was using for my examples:
+Models + LORAS used for my examples:
 - RevAnimated: https://civitai.com/models/119330?modelVersionId=129614
 - AbsoluteReality: https://civitai.com/models/81458?modelVersionId=132760
 - Vietnamese long dress Aodai: https://civitai.com/models/112187?modelVersionId=121093
