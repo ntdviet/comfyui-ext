@@ -11,6 +11,7 @@ Custom nodes:
 -	ComfyUI_Comfyroll_CustomNodes: <a>https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes</a>
 -	WAS-node-suite-comfyui: <a>https://github.com/WASasquatch/was-node-suite-comfyui</a>
 - gcLatentTunnel: https://github.com/ntdviet/comfyui-ext/tree/main/custom_nodes/gcLatentTunnel
+
 Models + LORAS I was using for my examples:
 - RevAnimated: https://civitai.com/models/119330?modelVersionId=129614
 - AbsoluteReality: https://civitai.com/models/81458?modelVersionId=132760
