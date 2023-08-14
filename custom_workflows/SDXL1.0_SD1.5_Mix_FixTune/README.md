@@ -15,7 +15,7 @@ Models + LORAS used for my examples:
 - RevAnimated: https://civitai.com/models/119330?modelVersionId=129614
 - AbsoluteReality: https://civitai.com/models/81458?modelVersionId=132760
 - Vietnamese long dress Aodai: https://civitai.com/models/112187?modelVersionId=121093
-- Better Hands: https://civitai.com/models/112187?modelVersionId=121093
+- Better Hands: https://civitai.com/models/47085
 - Add Detail: https://civitai.com/models/112187?modelVersionId=121093
 
 ### Installation
