@@ -2,6 +2,7 @@
 
 This ComfyUI workflow is an experiment to blend SD1.5 visual styles (determined by custom checkpoints and LORAs) and precision into SDXL1.0's fantastic compositions.
 In the same rendering pipeline, artifacts and faulty image creation from SDXL1.0 base render shall automatically be removed as much as possible without the need for manual inpainting.
+Youtube (sorry only vietnamese) where I discuss issues and guide through the workflow: https://www.youtube.com/watch?v=efAi0WIDyIo
 ![ảnh](https://github.com/ntdviet/comfyui-ext/assets/54492570/f2f7f105-64a7-4125-9464-b7f06b48f681)
 ![ảnh](https://github.com/ntdviet/comfyui-ext/assets/54492570/8c68f69e-d3ec-4a60-96be-b515aeb1026d)
 
